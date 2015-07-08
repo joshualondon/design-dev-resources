@@ -1,7 +1,6 @@
-# Design & Dev Resource List
-#Design & Dev Resources
-*<a href="http://freebbble.com/" target="_blank" rel="nofollow"><strong>Freebbble</strong></a> High-quality design freebies from Dribbble.
-*<a href="https://dribbble.com/search?q=freebie" target="_blank" rel="nofollow"><strong>Dribbble:</strong></a> Dribbble search results for “freebie”. An absolute freebie treasure.
+#Design & Dev Resource List
+* <a href="http://freebbble.com/" target="_blank" rel="nofollow"><strong>Freebbble</strong></a> High-quality design freebies from Dribbble.
+* <a href="https://dribbble.com/search?q=freebie" target="_blank" rel="nofollow"><strong>Dribbble:</strong></a> Dribbble search results for “freebie”. An absolute freebie treasure.
 * <a href="http://graphicburger.com/" target="_blank" rel="nofollow"><strong>Graphic Burger:</strong></a> Tasty design resources made with care for each pixel.
 * <a href="http://pixelbuddha.net/" target="_blank" rel="nofollow"><strong>Pixel Buddha:</strong></a> Free and premium resources for professional community.
 * <a href="http://www.premiumpixels.com/" target="_blank" rel="nofollow"><strong>Premium Pixels:</strong></a> Free Stuff for Creative Folk.
