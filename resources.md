@@ -1,4 +1,5 @@
 #Design & Dev Resource List
+*A list of resources and freebies, mainly borrowed from other Top X List posts*
 
 ## UI
 * <a href="http://freebbble.com/" target="_blank" rel="nofollow"><strong>Freebbble</strong></a> High-quality design freebies from Dribbble.
